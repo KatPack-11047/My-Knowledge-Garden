@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a881a56e4701f9ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "753a8803fbf7d899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5332e2eb021967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcf72c5234cb08d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "221f05d837918591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150f5338fb79a554",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c088a1c46e10f1b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a012160d1f75b423",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa5802be54a5fe83",
+    "type": "split",
+    "children": [
+      {
+        "id": "9679daf8b2123459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe533ed18a7fba21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "ab93d0cdf047437c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "26e4bf50fd9d4fd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9b0b8df717cab98b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2db4dc3cb4c5c97f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9f5332e2eb021967",
+  "lastOpenFiles": [
+    "computer networks/OSI Модели 24.01.2026/Модель OSI (Open Systems Interconnection).md",
+    "README.md",
+    "computer networks",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005909.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005900.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005851.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005832.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005806.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131004428.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005721.png",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131005642.png",
+    "computer networks/OSI Модели 24.01.2026",
+    "Модели OSI.md",
+    "computer networks/OSI Модели 24.01.2026/img/Pasted image 20260131004548.png",
+    "computer networks/OSI Модели 24.01.2026/img",
+    "Welcome!.md"
+  ]
+}
