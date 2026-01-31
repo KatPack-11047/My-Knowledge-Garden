@@ -40,7 +40,7 @@ By using Markdown, I ensure that my notes are not locked into a proprietary form
 
 If you're exploring this repo:
 
-1. **Clone it:** `git clone https://github.com/your-username/your-repo-name.git`
+1. **Clone it:** `git clone https://github.com/KatPack-11047/My-Knowledge-Garden
     
 2. **Open in Obsidian:** Point Obsidian to this folder to see the links and graph view in action.
     
